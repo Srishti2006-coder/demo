@@ -1,2 +1,2 @@
 # demo
-Hy I am Srishti bansal
+Hello my name is srishti
